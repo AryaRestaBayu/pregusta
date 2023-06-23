@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325717652711",
+    "project_id": "pregusta-4f1a7",
+    "storage_bucket": "pregusta-4f1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325717652711:android:4ef116b318d6f62b1bde42",
+        "android_client_info": {
+          "package_name": "com.example.koprasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325717652711-6v9ejp5gv24si1rg63f9d0i1b1p9a3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcoWl9W546_NAppGsbs69GvEg0TCYR7W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325717652711-6v9ejp5gv24si1rg63f9d0i1b1p9a3hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
