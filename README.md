@@ -1,16 +1,25 @@
-# koprasi
+# Pregusta
 
-A new Flutter project.
+## Description
+Pregusta is an app to recap attendance and share announcement.
 
-## Getting Started
+## Feature
+- Authentication
+- Add attendance
+- Check user attendance
+- Change profile (name, profile picture, etc)
+- Add announcement
+- Set notifications for attendance reminders
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+| Login        | Register    | Admin        | User    |
+|--------------|-----------|-------|----|
+| <img src="app_screenshot/login.jpg" width="250"/> | <img src="app_screenshot/register.jpg" width="250"/> | <img src="app_screenshot/admin.jpg" width="250"/> | <img src="app_screenshot/user.jpg" width="250"/>|
+| Add Attendance        | User Attendance    | Profile        | Add Announcement    |
+| <img src="app_screenshot/add_absen.jpg" width="250"/> | <img src="app_screenshot/user_absen.jpg" width="250"/> | <img src="app_screenshot/profile.jpg" width="250"/> | <img src="app_screenshot/add_news.jpg" width="250"/>|
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What i use
+- Firebase auth, storage, and firestore
+- Local storage (Shared Preferences)
+- And other libraries from https://pub.dev/
