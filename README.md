@@ -21,5 +21,5 @@ Pregusta is an app to recap attendance and share announcement.
 
 ## What i use
 - Firebase auth, storage, and firestore
-- Local storage (Shared Preferences)
+- Local notification
 - And other libraries from https://pub.dev/
